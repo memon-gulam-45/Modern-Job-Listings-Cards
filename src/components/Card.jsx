@@ -6,7 +6,11 @@ const Card = (props) => {
     <div className="card">
       <div>
         <div className="top">
-          <img src={props.brandLogo} alt="" />
+          <img
+            src={props.brandLogo}
+            alt={`${props.name} Logo`}
+            loading="lazy"
+          />
           <button>
             Save <Bookmark size={12} />
           </button>
