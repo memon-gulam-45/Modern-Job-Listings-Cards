@@ -1,4 +1,4 @@
-# 📌 Modern Job Listings Cards (React Props Demo)
+# 🚀 Modern Job Listings Cards (React Props Demo)
 
 A modern and responsive job listing cards UI built using **React.js** and **CSS**, focused on understanding and implementing **props handling in React**.
 
