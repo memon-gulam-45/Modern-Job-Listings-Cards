@@ -4,13 +4,13 @@ A modern and responsive job listing cards UI built using **React.js** and **CSS*
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
 🔗 https://modern-job-listings-cards.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - ⚛️ React.js
 - 🎨 Vanilla CSS
@@ -18,7 +18,7 @@ A modern and responsive job listing cards UI built using **React.js** and **CSS*
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 The main goal of this project is to:
 
@@ -48,7 +48,7 @@ The main goal of this project is to:
 
 ---
 
-## 📌 Key Implementation
+## Key Implementation
 
 - Job data is stored in an array inside `App.jsx`
 - Each job is passed as props to the `Card` component
@@ -57,7 +57,7 @@ The main goal of this project is to:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Add filtering (role, level, location)
 - Add search functionality
