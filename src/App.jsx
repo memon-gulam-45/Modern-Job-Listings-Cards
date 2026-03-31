@@ -3,7 +3,7 @@ import Card from "./components/Card";
 const App = () => {
   const jobOpenings = [
     {
-      brandLogo: "https://logo.clearbit.com/google.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:google.com",
       name: "Google",
       datePosted: "5 days ago",
       post: "Software Engineer",
@@ -13,7 +13,7 @@ const App = () => {
       location: "Bangalore, India",
     },
     {
-      brandLogo: "https://logo.clearbit.com/meta.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:meta.com",
       name: "Meta",
       datePosted: "2 weeks ago",
       post: "Data Scientist",
@@ -23,7 +23,7 @@ const App = () => {
       location: "Hyderabad, India",
     },
     {
-      brandLogo: "https://logo.clearbit.com/amazon.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:amazon.com",
       name: "Amazon",
       datePosted: "3 days ago",
       post: "Operations Analyst",
@@ -33,7 +33,7 @@ const App = () => {
       location: "Mumbai, India",
     },
     {
-      brandLogo: "https://logo.clearbit.com/apple.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:apple.com",
       name: "Apple",
       datePosted: "1 week ago",
       post: "UI/UX Designer",
@@ -43,7 +43,7 @@ const App = () => {
       location: "Pune, India",
     },
     {
-      brandLogo: "https://logo.clearbit.com/netflix.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:netflix.com",
       name: "Netflix",
       datePosted: "10 days ago",
       post: "Frontend Developer",
@@ -53,7 +53,7 @@ const App = () => {
       location: "Bangalore, India",
     },
     {
-      brandLogo: "https://logo.clearbit.com/microsoft.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:microsoft.com",
       name: "Microsoft",
       datePosted: "3 weeks ago",
       post: "Cloud Engineer",
@@ -63,7 +63,7 @@ const App = () => {
       location: "Hyderabad, India",
     },
     {
-      brandLogo: "https://logo.clearbit.com/tesla.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:tesla.com",
       name: "Tesla",
       datePosted: "4 weeks ago",
       post: "Mechanical Design Engineer",
@@ -73,7 +73,7 @@ const App = () => {
       location: "Gurugram, India",
     },
     {
-      brandLogo: "https://logo.clearbit.com/nvidia.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:nvidia.com",
       name: "NVIDIA",
       datePosted: "6 days ago",
       post: "AI Research Intern",
@@ -94,7 +94,7 @@ const App = () => {
       location: "Noida, India",
     },
     {
-      brandLogo: "https://logo.clearbit.com/intel.com",
+      brandLogo: "https://logos-api.apistemic.com/domain:intel.com",
       name: "Intel",
       datePosted: "10 weeks ago",
       post: "Embedded Systems Engineer",
